@@ -15,6 +15,21 @@ All that said, please be concise!  We're not looking for you to write a book her
 You can submit your writeup in markdown or use another method and submit a pdf instead.
 
 The Project
+
+Set up the [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) if you haven't already.
+
+If you're using `bash` or Docker Quickstart Terminal:
+
+navigate to the directory of a project:
+
+```bash
+$ cd ~/src/CarND-LaneLines-P1
+```
+
+```sh
+docker run -it --rm --entrypoint "/run.sh" -p 8888:8888 -v `pwd`:/src udacity/carnd-term1-starter-kit
+```
+
 ---
 
 The goals / steps of this project are the following:
